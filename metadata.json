@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix Remix Remix Remix Boon Huat Integrated Three-Way Match",
+  "description": "A professional full-stack application for automated three-way matching of Purchase Orders, Goods Received Notes, and Invoices with Gemini-powered extraction and deterministic validation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
